@@ -13,29 +13,29 @@
 
 #include "gpio_2026.h"
 
-// PINES DE LOS LEDS
+// Pines de los leds
 typedef enum {
     LED_2  = 2,
     LED_4  = 4,
     LED_5  = 5,    
     LED_16 = 16,
     LED_17 = 17
-} bsp_led_t;
+} led_t;
 
-// PINES DE LOS LEDS RGB
+// Pines de los leds rgb
 typedef enum {
     RGB_R = 14,
     RGB_G = 13,
     RGB_B = 12
-} bsp_rgb_t;
+} rgb_t;
 
-// PINES DE LOS BOTONES
+// Pines de los botones
 typedef enum {
     BTN_1 = 18,
     BTN_2 = 19
-} bsp_boton_t;
+} boton_t;
 
-// PROTOTIPO DE LAS FUNCIONES DEL BSP
+// Prototipo de las funciones del bsp
 
 
 #endif
