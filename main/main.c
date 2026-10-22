@@ -7,7 +7,7 @@
  * @descripcion: Implementacion de las funciones del driver
  *********************************************************************************************/
 
-#include "gpio_2026.h"
+#include "bsp.h"
 
 #define BOTON_IZQ   18
 #define BOTON_DER   19
