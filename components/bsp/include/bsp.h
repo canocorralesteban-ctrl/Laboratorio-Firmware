@@ -12,6 +12,7 @@
 #define BSP_H
 
 #include "hal_gpio.h"
+#include "hal_timers_2026.h"
 
 // Pines de los leds
 typedef enum {
