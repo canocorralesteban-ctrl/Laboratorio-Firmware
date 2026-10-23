@@ -1,3 +1,3 @@
 idf_component_register(SRCS "main.c"
                        INCLUDE_DIRS "."
-                       REQUIRES gpio_2026 bsp)
+                       REQUIRES gpio_2026 bsp gpio_config_2026)
